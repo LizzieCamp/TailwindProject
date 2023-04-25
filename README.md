@@ -1,3 +1,3 @@
-# MovieAPI
+# TailwindProject
 
-Movie to watch list - search for movies and add them to your to do list, check them off your to do list and add them to your watched list once you've watched them!
+A repo for when I want to practice/learn tailwind. 
